@@ -1,1 +1,1 @@
-# minimal-react-starter
+# Minimal React Starter
